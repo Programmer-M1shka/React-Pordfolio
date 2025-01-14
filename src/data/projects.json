@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Color Game",
+    "imageSrc": "projects/icons8-game-96.png",
+    "description": " Its functionality is that when you press the next start button, the coordinates of a specific color will drop out, there is a complex and simple method to guess the coordinate of a specific color",
+    "skills": ["HTML", "CSS", "Java-Script"],
+    "source": "https://github.com/Programmer-M1shka/Color-Game"
+  },
+  {
+    "title": "Todu-List",
+    "imageSrc": "projects/123.png",
+    "description": "A to-du list that works with LOCAL STORAGE. The information stored in it remains when the browser is turned off and on again.",
+    "skills": ["HTML", "Sass", "ANGULAR" ],
+    "source": "https://github.com/Programmer-M1shka/Todu-List"
+  },
+  {
+    "title": "Restourant Website",
+    "imageSrc": "projects/restaurant.png",
+    "description": "Restaurant Functional Site Where Products Add to Cart Register and Contact Used Lacal Memory",
+    "skills": ["HTML", "Sass", "ANGULAR"],
+    "source": "https://github.com/Programmer-M1shka/Restouran-angular"
+  },
+  {
+    "title": "Pordfolio",
+    "imageSrc": "projects/gallery.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "Sass", "React"],
+    "source": "https://www.github.com"
+  }
+]
